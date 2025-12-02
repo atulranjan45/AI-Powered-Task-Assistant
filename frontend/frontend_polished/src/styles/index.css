@@ -1,0 +1,18 @@
+﻿@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global styling */
+body {
+  font-family: Inter, ui-sans-serif, system-ui;
+}
+
+.card {
+  box-shadow: 0 6px 20px rgba(16,24,40,0.06);
+  border-radius: 14px;
+}
+
+.btn {
+  padding: .6rem 1rem;
+  border-radius: 8px;
+}
